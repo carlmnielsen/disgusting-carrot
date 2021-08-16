@@ -1,4 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
 .class {
   background-color: whitesmoke;
   color: #e77b7bf1;
+  border: 1px solid black;
+
+  padding: 50px;
+  width: 700px;
+}
+
+.content {
+  padding: 20px;
+  border: 5px dotted cornflowerblue;
+  margin: 50px;
 }
